@@ -1,0 +1,7 @@
+1.将待上传的文件复制到本地仓库中；
+2.在本地仓库中打开Git Bush；
+3.输入命令“git add .”；
+4.输入命令“git commit -m "提交信息"”（提交信息是你的项目说明）；
+5.输入命令“git push -u origin master”。
+
+注：克隆仓库命令 "git clone https://github.com/用户名/仓库名.git".
